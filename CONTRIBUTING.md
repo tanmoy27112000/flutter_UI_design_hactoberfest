@@ -1,6 +1,7 @@
-# Contribution Guidelines:
-1. Fork this Repository.
-2. Star this repository⭐
-3. Commit your code file.
-4. Create a pull request.
-5. Done.
+# Flutter Kolkata Contributors
+
+## Tanmoy karmakar
+
+- Place: Siliguri, West bengal, India
+- Bio: SDE-II at Saas labs US.
+- GitHub: [Tanmoy karmakar](https://github.com/tanmoy27112000)
