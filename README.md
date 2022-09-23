@@ -16,7 +16,11 @@
 
 **2) Star this repository⭐**
 
-**3) Add a folder that define the UI you want to upload eg `amazon_ui` , `flipkart_ui`** and add your UI code to the folder and create a PR.
+**3) Create a new issue detailing what you want to add and create a branch from the issue**
+
+**4) Add your details in the CONTRIBUTING.md file⭐**
+
+**5) Add a folder that define the UI you want to upload eg `amazon_ui` , `flipkart_ui`** and add your UI code to the folder and create a **PULL REQUEST**.
 
 # Some Code Guidelines
 
@@ -28,7 +32,7 @@
 
 ### End note
 
-**It's a great privilege of **Flutter Kolkata** to contribute at *Hacktoberfest 2022*. All valid pull request will be accepted, this process may take sometime but don't worry.**
+It's a great privilege of **Flutter Kolkata** to contribute at *Hacktoberfest 2022*. All valid pull request will be accepted, this process may take sometime but don't worry.
 
 **Join our community for more events**
 
