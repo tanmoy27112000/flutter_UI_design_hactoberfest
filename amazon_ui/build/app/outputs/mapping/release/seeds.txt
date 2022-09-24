@@ -1,0 +1,1288 @@
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat embeddingExtension
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(kotlinx.coroutines.flow.FlowCollector,kotlin.coroutines.Continuation)
+androidx.window.layout.HardwareFoldingFeature
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: androidx.core.util.Consumer $consumer
+androidx.window.core.Bounds: boolean isZero()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getFOLD()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer getCallback()
+androidx.window.layout.HardwareFoldingFeature: HardwareFoldingFeature(androidx.window.core.Bounds,androidx.window.layout.HardwareFoldingFeature$Type,androidx.window.layout.FoldingFeature$State)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetRight(android.view.DisplayCutout)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.window.embedding.EmbeddingBackend: boolean isSplitSupported()
+androidx.window.embedding.MatcherUtils: boolean wildcardMatch(java.lang.String,java.lang.String)
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+kotlin.jvm.internal.Lambda: int arity
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key getKey()
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: WindowMetricsCalculator$Companion$reset$1()
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.window.embedding.SplitController: boolean isSplitSupported()
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.WindowLayoutInfo translate$window_release(android.app.Activity,androidx.window.extensions.layout.WindowLayoutInfo)
+kotlinx.coroutines.scheduling.WorkQueue
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetTop(android.view.DisplayCutout)
+androidx.window.embedding.ActivityRule: int hashCode()
+kotlin.jvm.internal.FunctionReference: int flags
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: androidx.window.layout.SidecarCompat this$0
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.window.embedding.EmbeddingRule
+androidx.window.R$id: int rtl
+androidx.window.embedding.SplitRule: int layoutDirection
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateIntentPredicates(java.util.Set)
+androidx.window.layout.WindowLayoutInfo: java.lang.String toString()
+androidx.window.embedding.ActivityFilter: android.content.ComponentName getComponentName()
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int)
+androidx.window.core.Bounds: int getBottom()
+kotlinx.coroutines.InvokeOnCancelling
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean)
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String toString()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+androidx.window.layout.SidecarCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.window.core.Version: java.lang.String getDescription()
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.embedding.ActivityStack: boolean isEmpty()
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getHINGE$cp()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+androidx.window.embedding.SplitController$Companion: androidx.window.embedding.SplitController getInstance()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlinx.coroutines.flow.Flow $flow
+androidx.window.embedding.SplitPairFilter: boolean equals(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+androidx.window.layout.DisplayFeature: android.graphics.Rect getBounds()
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator$Companion $$INSTANCE
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+androidx.window.layout.FoldingFeature: boolean isSeparating()
+androidx.window.layout.HardwareFoldingFeature$Companion: void validateFeatureBounds$window_release(androidx.window.core.Bounds)
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingAdapter adapter
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept$lambda-0(androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper,androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPredicates(java.util.Set)
+kotlinx.coroutines.channels.AbstractChannel$ReceiveHasNext
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+androidx.window.embedding.SplitPairRule: boolean finishSecondaryWithPrimary
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String description
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KDeclarationContainer getOwner()
+androidx.window.core.Version
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: ExtensionEmbeddingBackend$SplitListenerWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.ExtensionEmbeddingBackend
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArraySet splitRules
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState,int)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityRule parseSplitActivityRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface callback
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeListener(androidx.core.util.Consumer)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker$Companion $$INSTANCE
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: SidecarWindowBackend$WindowLayoutChangeCallbackWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsP$window_release(android.app.Activity)
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo,java.util.List)
+androidx.window.core.Version: androidx.window.core.Version access$getUNKNOWN$cp()
+androidx.window.layout.WindowMetrics: androidx.window.core.Bounds _bounds
+androidx.window.layout.DisplayCompatHelperApi28: DisplayCompatHelperApi28()
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+androidx.window.embedding.SplitInfo: float splitRatio
+androidx.window.layout.SidecarCompat$Companion: androidx.window.core.Version getSidecarVersion()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat getEmbeddingExtension()
+kotlin.jvm.internal.FunctionReference: boolean equals(java.lang.Object)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat windowExtension
+androidx.window.embedding.SplitController: void registerRule(androidx.window.embedding.EmbeddingRule)
+kotlinx.coroutines.EventLoopImplBase
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.concurrent.locks.ReentrantLock multicastConsumerLock
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetricsCalculator$Companion Companion
+androidx.window.layout.HardwareFoldingFeature: androidx.window.core.Bounds featureBounds
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.channels.AbstractChannel$enqueueReceiveInternal$$inlined$addLastIfPrevAndIf$1
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+kotlinx.coroutines.internal.LockFreeTaskQueueCore
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.concurrent.Executor executor
+androidx.window.layout.WindowMetrics: java.lang.String toString()
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType NONE
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+androidx.window.core.Bounds: Bounds(android.graphics.Rect)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+io.flutter.embedding.android.FlutterTextureView
+androidx.window.layout.SidecarCompat$DistinctElementCallback
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map listenerToActivity
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: androidx.window.layout.WindowInfoTrackerImpl this$0
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController$Companion Companion
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.window.layout.WindowLayoutInfo: int hashCode()
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend: boolean isSplitSupported()
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.WeakHashMap mActivityWindowLayoutInfo
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock globalLock
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer callback
+androidx.window.layout.HardwareFoldingFeature: android.graphics.Rect getBounds()
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDeviceState(androidx.window.sidecar.SidecarDeviceState,androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.window.embedding.EmbeddingCompat
+androidx.window.layout.SidecarCompat$DistinctElementCallback: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.SplitPairRule: boolean getClearTop()
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.savedstate.Recreator
+androidx.window.layout.HardwareFoldingFeature: int hashCode()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.window.embedding.EmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+androidx.core.app.RemoteActionCompat
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature$Companion
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility[] values()
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.R$id: int locale
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Class,java.lang.String,java.lang.String,int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+androidx.window.layout.SidecarAdapter: java.util.List translate(java.util.List,androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend access$getGlobalInstance$cp()
+androidx.window.R$styleable: int SplitPairRule_splitMinSmallestWidth
+kotlinx.coroutines.JobSupport$ChildCompletion
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List lastInfo
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock globalLock
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+androidx.window.core.Bounds: int hashCode()
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPairPredicates$lambda-1(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+androidx.window.embedding.SplitRule$LayoutDir
+androidx.window.embedding.EmbeddingAdapter
+kotlin.jvm.internal.CallableReference: java.lang.Object call(java.lang.Object[])
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.window.embedding.EmbeddingInterfaceCompat
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+androidx.window.java.R
+androidx.window.layout.ActivityCompatHelperApi30: ActivityCompatHelperApi30()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getSecondaryActivityStack()
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion()
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.window.embedding.SplitInfo: java.lang.String toString()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void releaseIntercepted()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$0
+androidx.window.core.Bounds: Bounds(int,int,int,int)
+androidx.window.embedding.EmbeddingBackend: java.util.Set getSplitRules()
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+androidx.window.embedding.SplitRule: boolean equals(java.lang.Object)
+androidx.window.embedding.SplitPairFilter: java.lang.String toString()
+androidx.window.layout.DisplayCompatHelperApi17: androidx.window.layout.DisplayCompatHelperApi17 INSTANCE
+kotlin.jvm.internal.FunctionReference: int getArity()
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+androidx.window.R$attr: int finishPrimaryWithSecondary
+androidx.window.layout.WindowBackend
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.concurrent.locks.ReentrantLock extensionWindowBackendLock
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.String toString()
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingCompat$Companion Companion
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitXml(android.content.Context,int)
+kotlinx.coroutines.channels.AbstractChannel
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: WindowInfoTrackerImpl$windowLayoutInfo$1(androidx.window.layout.WindowInfoTrackerImpl,android.app.Activity,kotlin.coroutines.Continuation)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+kotlin.jvm.internal.CallableReference: java.lang.Object getBoundReceiver()
+io.flutter.embedding.android.FlutterSurfaceView
+androidx.window.embedding.ActivityFilter: java.lang.String toString()
+androidx.window.embedding.MatcherUtils
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.EmbeddingInterfaceCompat initAndVerifyEmbeddingExtension()
+androidx.window.embedding.ActivityStack
+androidx.window.embedding.EmbeddingAdapter: boolean translateParentMetricsPredicate$lambda-4(androidx.window.embedding.SplitRule,android.view.WindowMetrics)
+androidx.window.layout.SidecarWindowBackend$Companion
+androidx.window.layout.SidecarWindowBackend: void getWindowLayoutChangeCallbacks$annotations()
+androidx.window.layout.WindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.window.embedding.EmptyEmbeddingComponent: void setSplitInfoCallback(java.util.function.Consumer)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsIceCreamSandwich$window_release(android.app.Activity)
+androidx.window.layout.ActivityCompatHelperApi24: androidx.window.layout.ActivityCompatHelperApi24 INSTANCE
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitInfo
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTrackerDecorator decorator
+androidx.window.embedding.SplitPlaceholderRule: boolean equals(java.lang.Object)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1(androidx.core.util.Consumer)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept$lambda-1(androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper,java.util.List)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat: androidx.window.layout.WindowLayoutInfo getWindowLayoutInfo(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(java.lang.Object)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+androidx.window.embedding.ActivityFilter: java.lang.String intentAction
+androidx.window.embedding.SplitPairRule
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList getWindowLayoutChangeCallbacks()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.window.embedding.SplitPlaceholderRule
+androidx.window.embedding.EmbeddingCompat$Companion
+androidx.window.embedding.SplitPairFilter: java.lang.String secondaryActivityIntentAction
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1
+androidx.window.layout.SidecarCompat: java.util.Map windowListenerRegisteredContexts
+androidx.window.R$styleable: int SplitPairRule_splitRatio
+kotlinx.coroutines.channels.AbstractSendChannel$SendBuffered
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+androidx.window.embedding.ActivityFilter: java.lang.String getIntentAction()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+androidx.window.layout.HardwareFoldingFeature: java.lang.String toString()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+androidx.window.layout.ActivityCompatHelperApi24: ActivityCompatHelperApi24()
+kotlin.jvm.internal.FunctionReference: boolean isExternal()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void setLastInfo(androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.SplitController: SplitController(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.app.CoreComponentFactory
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface extensionCallback
+androidx.window.core.Version: int getPatch()
+androidx.window.embedding.EmbeddingRule: EmbeddingRule()
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.window.layout.WindowInfoTracker: androidx.window.layout.WindowInfoTracker$Companion Companion
+androidx.window.layout.SidecarCompat$TranslatingCallback
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int,kotlin.coroutines.Continuation)
+androidx.window.core.Version: androidx.window.core.Version VERSION_0_1
+androidx.window.layout.WindowInfoTracker$Companion: java.lang.String TAG
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set getFilters()
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock globalLock
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.window.layout.ActivityCompatHelperApi24
+androidx.window.layout.EmptyDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+androidx.window.layout.FoldingFeature$State: FoldingFeature$State(java.lang.String)
+androidx.window.embedding.EmbeddingAdapter: java.util.List translate(java.util.List)
+androidx.window.layout.WindowMetricsCalculator$Companion: void reset()
+androidx.window.layout.WindowMetricsCalculatorDecorator: androidx.window.layout.WindowMetricsCalculator decorate(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.R$id
+kotlin.jvm.internal.CallableReference: boolean isFinal()
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.window.embedding.SplitPairFilter: SplitPairFilter(android.content.ComponentName,android.content.ComponentName,java.lang.String)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getHINGE()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type FOLD
+androidx.window.layout.SidecarWindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.window.layout.WindowLayoutInfo: WindowLayoutInfo(java.util.List)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+androidx.window.layout.HardwareFoldingFeature$Type
+androidx.window.layout.DisplayCompatHelperApi28
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.ExtensionEmbeddingBackend getInstance()
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+androidx.window.layout.SidecarCompat$Companion: android.os.IBinder getActivityWindowToken$window_release(android.app.Activity)
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+androidx.window.embedding.SplitInfo: int hashCode()
+androidx.window.layout.WindowMetricsCalculator$Companion
+androidx.window.embedding.SplitRule$Api30Impl: SplitRule$Api30Impl()
+androidx.window.layout.FoldingFeature$Orientation
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityIntentPredicates(java.util.Set)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getFOLD$cp()
+androidx.window.layout.SidecarWindowBackend
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityAction
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.window.layout.FoldingFeature$OcclusionType$Companion
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invokeSuspend(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+androidx.window.layout.SidecarAdapter$Companion: androidx.window.layout.DisplayFeature translate$window_release(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDeviceState)
+kotlinx.coroutines.scheduling.GlobalQueue
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack primaryActivityStack
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface: void onSplitInfoChanged(java.util.List)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+kotlin.jvm.internal.CallableReference: java.util.List getAnnotations()
+kotlin.coroutines.AbstractCoroutineContextElement: AbstractCoroutineContextElement(kotlin.coroutines.CoroutineContext$Key)
+androidx.window.layout.SidecarAdapter$Companion: java.util.List getSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.SplitRule$Api30Impl: android.graphics.Rect getBounds(android.view.WindowMetrics)
+androidx.window.R$styleable: int[] SplitPairRule
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+androidx.window.layout.ActivityCompatHelperApi30: androidx.window.layout.ActivityCompatHelperApi30 INSTANCE
+androidx.window.embedding.SplitPairRule: boolean equals(java.lang.Object)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList getSplitChangeCallbacks()
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList windowLayoutChangeCallbacks
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingAdapter adapter
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: androidx.window.layout.SidecarWindowBackend this$0
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable getReflected()
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: java.lang.Object invoke(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+androidx.window.embedding.ActivityFilter: boolean matchesIntent(android.content.Intent)
+androidx.window.embedding.EmptyEmbeddingComponent
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+kotlinx.coroutines.JobSupport
+androidx.window.core.Version: java.lang.String description
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+kotlinx.coroutines.CancellableContinuationImpl
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int)
+androidx.window.core.Version$Companion: Version$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+kotlinx.coroutines.CancelledContinuation: int _resumed
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend globalInstance
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+kotlinx.coroutines.BlockingEventLoop
+androidx.window.embedding.ActivityFilter: ActivityFilter(android.content.ComponentName,java.lang.String)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+androidx.window.embedding.SplitPairFilter: java.lang.String getSecondaryActivityIntentAction()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.window.layout.EmptyDecorator: EmptyDecorator()
+androidx.window.embedding.EmbeddingAdapter: boolean translateIntentPredicates$lambda-8(java.util.Set,android.content.Intent)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat()
+androidx.window.layout.EmptyDecorator
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.window.R$attr: int splitMinWidth
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.R$styleable: int SplitPlaceholderRule_splitRatio
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+androidx.window.R$attr: int secondaryActivityAction
+androidx.window.embedding.SplitPairRule: java.util.Set filters
+androidx.window.R$styleable: int SplitPairRule_clearTop
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+androidx.window.embedding.EmbeddingCompat: java.lang.String TAG
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController getInstance()
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: WindowMetricsCalculator$Companion$overrideDecorator$1(java.lang.Object)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: boolean isEmpty()
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable computeReflected()
+androidx.window.layout.DisplayCompatHelperApi17: void getRealSize(android.view.Display,android.graphics.Point)
+androidx.window.layout.FoldingFeature
+androidx.window.core.Bounds: int top
+androidx.window.layout.ExtensionInterfaceCompat: boolean validateExtensionInterface()
+androidx.window.R
+androidx.fragment.app.Fragment$2
+kotlinx.coroutines.channels.RendezvousChannel
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityIntentPredicates$lambda-3(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.layout.SidecarCompat: SidecarCompat(android.content.Context)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo lastInfo
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type HINGE
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+androidx.window.layout.WindowInfoTrackerImpl: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.window.layout.SidecarCompat: boolean validateExtensionInterface()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsQ$window_release(android.app.Activity)
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarCompat
+androidx.window.layout.SidecarAdapter: androidx.window.layout.WindowLayoutInfo translate(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.layout.FoldingFeature$Orientation$Companion
+kotlinx.coroutines.channels.Closed
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+kotlinx.coroutines.channels.ArrayChannel
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+androidx.window.layout.SidecarWindowBackend$Companion: boolean isSidecarVersionSupported(androidx.window.core.Version)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: ExtensionsWindowLayoutInfoAdapter()
+androidx.window.embedding.ActivityFilter
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion()
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onConfigurationChanged(android.content.res.Configuration)
+androidx.window.layout.SidecarWindowBackend: boolean DEBUG
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect maximumWindowBounds(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo getLastInfo()
+androidx.window.core.Version: androidx.window.core.Version VERSION_1_0
+kotlinx.coroutines.channels.AbstractSendChannel: java.lang.Object onCloseHandler
+kotlinx.coroutines.CommonPool: java.util.concurrent.Executor pool
+kotlinx.coroutines.internal.AtomicOp
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation,kotlin.coroutines.CoroutineContext)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowBackend windowBackend$window_release(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+androidx.window.core.Version$Companion
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+androidx.window.layout.SidecarAdapter: java.lang.String TAG
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+kotlin.jvm.internal.CallableReference: boolean isOpen()
+androidx.window.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+androidx.window.embedding.SplitRule: float getSplitRatio()
+androidx.window.layout.HardwareFoldingFeature$Type: HardwareFoldingFeature$Type(java.lang.String)
+kotlin.jvm.internal.Lambda: int getArity()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity activity
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitRules$window_release(android.content.Context,int)
+androidx.window.layout.WindowInfoTrackerDecorator
+androidx.window.embedding.EmbeddingBackend: void setSplitRules(java.util.Set)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+androidx.window.R$styleable: int[] SplitPlaceholderRule
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlin.jvm.internal.CallableReference: java.lang.String getName()
+kotlinx.coroutines.android.HandlerContext
+kotlinx.coroutines.android.AndroidExceptionPreHandler
+kotlinx.coroutines.channels.LinkedListChannel
+androidx.window.embedding.EmbeddingCompat$Companion: java.lang.Integer getExtensionApiLevel()
+kotlinx.coroutines.UndispatchedCoroutine
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+androidx.window.embedding.EmbeddingInterfaceCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+androidx.window.layout.WindowInfoTracker$Companion: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+androidx.window.embedding.SplitRule
+androidx.window.layout.DisplayCompatHelperApi17: DisplayCompatHelperApi17()
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion()
+androidx.window.core.Version$Companion: androidx.window.core.Version getCURRENT()
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPredicates$lambda-6(java.util.Set,android.app.Activity)
+androidx.window.core.Bounds
+kotlinx.coroutines.channels.ArrayChannel: int size
+kotlinx.coroutines.StandaloneCoroutine
+kotlinx.coroutines.CompletedExceptionally: int _handled
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.Map consumerToJobMap
+androidx.window.embedding.SplitController: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.layout.WindowMetricsCalculator$Companion: kotlin.jvm.functions.Function1 decorator
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext plus(kotlin.coroutines.CoroutineContext)
+androidx.activity.ComponentActivity$2
+androidx.window.layout.SidecarAdapter
+androidx.window.layout.SidecarWindowBackend: void setWindowExtension(androidx.window.layout.ExtensionInterfaceCompat)
+androidx.window.embedding.SplitRule$Api30Impl: androidx.window.embedding.SplitRule$Api30Impl INSTANCE
+androidx.window.core.Bounds: int right
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.view.DisplayCutout getCutoutForDisplay(android.view.Display)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface callbackInterface
+androidx.window.layout.WindowInfoTracker$Companion: WindowInfoTracker$Companion()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map activityToListeners
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion()
+kotlinx.coroutines.channels.AbstractSendChannel
+androidx.window.embedding.EmbeddingCompat: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingExtension
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.ExtensionInterfaceCompat initAndVerifyExtension(android.content.Context)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type type
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.window.embedding.ActivityFilter: int hashCode()
+androidx.window.embedding.SplitController: java.util.Set staticSplitRules
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.R$attr: int placeholderActivityName
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+androidx.activity.ComponentActivity$3
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType FULL
+androidx.window.embedding.SplitRule: int minWidth
+androidx.window.core.Version: androidx.window.core.Version UNKNOWN
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: androidx.core.util.Consumer $consumer$inlined
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+androidx.window.embedding.EmbeddingBackend
+androidx.core.graphics.drawable.IconCompat
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+androidx.window.core.Version$Companion: Version$Companion()
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: WindowInfoTrackerCallbackAdapter(androidx.window.layout.WindowInfoTracker)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+androidx.window.embedding.ActivityStack: boolean equals(java.lang.Object)
+androidx.window.java.R: R()
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker
+androidx.window.core.Bounds: int getRight()
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation VERTICAL
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: boolean validBounds(android.app.Activity,androidx.window.core.Bounds)
+androidx.window.embedding.SplitPairRule: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: androidx.window.embedding.ExtensionEmbeddingBackend this$0
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlin.jvm.internal.CallableReference: java.lang.Object receiver
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+androidx.window.R$attr: R$attr()
+androidx.window.layout.WindowMetricsCalculatorCompat
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+androidx.window.embedding.ActivityStack: java.util.List activities
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.window.R$attr: int splitLayoutDirection
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity getActivity()
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper
+kotlinx.coroutines.JobSupport$addLastAtomic$$inlined$addLastIf$1
+androidx.window.embedding.SplitController$Companion
+kotlin.jvm.internal.CallableReference: java.lang.String name
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+androidx.window.R$attr: int secondaryActivityName
+androidx.versionedparcelable.ParcelImpl
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+androidx.window.layout.SidecarWindowBackend: boolean isActivityRegistered(android.app.Activity)
+androidx.window.layout.FoldingFeature$State: java.lang.String description
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+io.flutter.embedding.android.FlutterSplashView$SavedState
+kotlinx.coroutines.internal.ScopeCoroutine
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+androidx.window.layout.FoldingFeature$Orientation: FoldingFeature$Orientation(java.lang.String)
+androidx.window.embedding.MatcherUtils: boolean areActivityOrIntentComponentsMatching$window_release(android.app.Activity,android.content.ComponentName)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.window.embedding.SplitRule: int hashCode()
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: SidecarWindowBackend$ExtensionListenerImpl(androidx.window.layout.SidecarWindowBackend)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component1(android.util.Pair)
+androidx.window.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.window.layout.WindowInfoTrackerImpl$Companion
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController globalInstance
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.window.embedding.SplitController$Companion: SplitController$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object)
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.embedding.MatcherUtils: boolean areComponentsMatching$window_release(android.content.ComponentName,android.content.ComponentName)
+android.support.v4.graphics.drawable.IconCompatParcelizer
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+androidx.window.embedding.SplitInfo: SplitInfo(androidx.window.embedding.ActivityStack,androidx.window.embedding.ActivityStack,float)
+androidx.window.embedding.EmbeddingCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.window.layout.WindowMetrics: boolean equals(java.lang.Object)
+androidx.window.core.Bounds: android.graphics.Rect toRect()
+androidx.window.embedding.SplitController: void clearRegisteredRules()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter sidecarAdapter
+androidx.window.embedding.SplitInfo: boolean contains(android.app.Activity)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.window.layout.SidecarWindowBackend: SidecarWindowBackend(androidx.window.layout.ExtensionInterfaceCompat)
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName secondaryActivityName
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.window.embedding.SplitRule$Api30Impl
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object)
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: java.lang.Object emit(java.lang.Object,kotlin.coroutines.Continuation)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinWidth
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: boolean isExtensionVersionSupported(java.lang.Integer)
+androidx.window.core.Bounds: int getTop()
+kotlinx.coroutines.NodeList
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept(androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.WindowLayoutInfo: java.util.List displayFeatures
+androidx.window.embedding.ExtensionEmbeddingBackend: void access$setGlobalInstance$cp(androidx.window.embedding.ExtensionEmbeddingBackend)
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_0_1$cp()
+androidx.window.embedding.EmbeddingCompat: void setSplitRules(java.util.Set)
+androidx.window.embedding.EmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.core.Version: int getMajor()
+androidx.window.layout.WindowMetrics: WindowMetrics(android.graphics.Rect)
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+androidx.window.layout.WindowInfoTrackerImpl: WindowInfoTrackerImpl(androidx.window.layout.WindowMetricsCalculator,androidx.window.layout.WindowBackend)
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+androidx.window.core.Version: int compareTo(java.lang.Object)
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+kotlin.jvm.internal.Lambda: java.lang.String toString()
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.SplitRule: int getLayoutDirection()
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPlaceholderRule parseSplitPlaceholderRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.WindowInfoTracker$Companion: boolean DEBUG
+io.flutter.view.FlutterCallbackInformation
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,boolean)
+androidx.window.layout.SidecarAdapter$Companion: int getRawSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.core.Version: androidx.window.core.Version parse(java.lang.String)
+androidx.versionedparcelable.CustomVersionedParcelable
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+androidx.window.R$attr: int clearTop
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+androidx.window.embedding.EmbeddingCompat$Companion: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingComponent()
+androidx.window.layout.DisplayCompatHelperApi17
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+androidx.window.core.Version: int compareTo(androidx.window.core.Version)
+androidx.window.core.Version: androidx.window.core.Version access$getCURRENT$cp()
+androidx.window.layout.WindowMetrics: WindowMetrics(androidx.window.core.Bounds)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+androidx.window.layout.SidecarCompat$TranslatingCallback: androidx.window.layout.SidecarCompat this$0
+androidx.window.layout.DisplayFeature
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getPrimaryActivityStack()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+androidx.window.embedding.ActivityStack: java.lang.String toString()
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String toString()
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getPrimaryActivityName()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.lang.String TAG
+androidx.window.R$styleable: int SplitPairRule_splitLayoutDirection
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.android.HandlerContext createDispatcher(java.util.List)
+androidx.window.layout.WindowMetricsCalculatorCompat: WindowMetricsCalculatorCompat()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: BaseContinuationImpl(kotlin.coroutines.Continuation)
+androidx.window.core.Version$bigInteger$2
+androidx.window.core.Bounds: int left
+androidx.window.embedding.ActivityRule: java.util.Set filters
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$2
+io.flutter.embedding.engine.FlutterJNI
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.android.FlutterView
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+androidx.window.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairRule parseSplitPairRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+androidx.window.embedding.SplitController: androidx.window.embedding.EmbeddingBackend embeddingBackend
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.reflect.Method preHandler()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend access$getGlobalInstance$cp()
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(androidx.window.extensions.layout.WindowLayoutInfo)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: androidx.window.layout.WindowLayoutInfo lastKnownValue
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,kotlin.reflect.KDeclarationContainer,java.lang.String,java.lang.String)
+androidx.window.layout.WindowInfoTracker
+androidx.window.layout.HardwareFoldingFeature: boolean isSeparating()
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarDeviceState lastDeviceState
+androidx.window.core.Version$bigInteger$2: java.math.BigInteger invoke()
+androidx.window.embedding.EmbeddingAdapter: EmbeddingAdapter()
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.window.embedding.SplitController$Companion: void initialize(android.content.Context,int)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowInfoTrackerImpl$Companion Companion
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void removeListener(androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.core.Version: kotlin.Lazy bigInteger$delegate
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+kotlinx.coroutines.CompletionHandlerBase
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat(androidx.window.extensions.embedding.ActivityEmbeddingComponent,androidx.window.embedding.EmbeddingAdapter)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+androidx.window.R$id: R$id()
+androidx.window.embedding.ActivityStack: int hashCode()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend$Companion Companion
+androidx.window.core.Version: int minor
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+kotlin.jvm.internal.CallableReference: java.lang.Object callBy(java.util.Map)
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+androidx.window.embedding.MatcherUtils: boolean sDebugMatchers
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.window.core.Version$Companion: androidx.window.core.Version getUNKNOWN()
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent placeholderIntent
+io.flutter.plugins.GeneratedPluginRegistrant
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KType getReturnType()
+androidx.window.embedding.SplitRule: int getMinWidth()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+androidx.window.R$styleable: int SplitPairFilter_primaryActivityName
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityFilter parseActivityFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+androidx.window.layout.SidecarWindowBackend$Companion: void resetInstance()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+androidx.window.embedding.SplitRule: boolean checkParentMetrics(android.view.WindowMetrics)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.layout.SidecarAdapter sidecarAdapter
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$Companion Companion
+androidx.window.R$attr: int splitRatio
+androidx.window.layout.WindowLayoutInfo: boolean equals(java.lang.Object)
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityIntentPair(android.app.Activity,android.content.Intent)
+androidx.window.layout.SidecarCompat: SidecarCompat(androidx.window.sidecar.SidecarInterface,androidx.window.layout.SidecarAdapter)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.Set getSplitRules()
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController access$getGlobalInstance$cp()
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation HORIZONTAL
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: android.app.Activity $activity
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: android.app.Activity activity
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName primaryActivityName
+androidx.window.layout.WindowInfoTracker: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+kotlin.jvm.internal.Lambda: Lambda(int)
+androidx.window.embedding.SplitPairRule: boolean clearTop
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+com.example.amazon_clone.MainActivity: MainActivity()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.MatcherUtils: MatcherUtils()
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.window.core.ExperimentalWindowApi
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable computeReflected()
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairFilter parseSplitPairFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.Set registeredListeners
+androidx.window.embedding.EmbeddingTranslatingCallback
+androidx.window.core.Version$bigInteger$2: Version$bigInteger$2(androidx.window.core.Version)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Element get(kotlin.coroutines.CoroutineContext$Key)
+kotlinx.coroutines.channels.Receive
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Point getRealSizeForDisplay$window_release(android.view.Display)
+androidx.window.layout.WindowInfoTracker$Companion
+androidx.window.core.Bounds: boolean equals(java.lang.Object)
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarWindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+kotlinx.coroutines.internal.LockFreeTaskQueue
+androidx.window.core.Version: int major
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State state
+androidx.window.R$attr: int primaryActivityName
+androidx.window.R$styleable: int SplitPairRule_splitMinWidth
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addWindowLayoutInfoListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+io.flutter.view.AccessibilityViewEmbedder
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+androidx.window.layout.FoldingFeature$OcclusionType
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.concurrent.locks.ReentrantLock lock
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter access$getSidecarAdapter$p(androidx.window.layout.SidecarCompat)
+kotlinx.coroutines.scheduling.LimitingDispatcher
+androidx.window.core.Version$bigInteger$2: java.lang.Object invoke()
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+androidx.window.layout.WindowMetricsCalculatorDecorator
+kotlinx.coroutines.JobNode
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void setLastInfo(java.util.List)
+androidx.window.embedding.SplitPlaceholderRule: int hashCode()
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Companion Companion
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: int label
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: void invokeSuspend$lambda-0(kotlinx.coroutines.channels.Channel,androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.SplitRuleParser: SplitRuleParser()
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+androidx.window.embedding.EmbeddingCompat$Companion: boolean isEmbeddingAvailable()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarCompat$Companion Companion
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: java.util.concurrent.Executor executor
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addListener(java.util.concurrent.Executor,androidx.core.util.Consumer,kotlinx.coroutines.flow.Flow)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeatures(java.util.List,java.util.List)
+kotlinx.coroutines.CancellableContinuationImpl: int _decision
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.DefaultExecutor
+androidx.window.core.Version: java.lang.String toString()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.WeakHashMap activityWindowLayoutInfo
+androidx.window.R$attr: int alwaysExpand
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_0_1()
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+androidx.window.layout.WindowInfoTrackerDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String toString()
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent getPlaceholderIntent()
+androidx.window.embedding.ActivityFilter: boolean equals(java.lang.Object)
+androidx.window.embedding.MatcherUtils: java.lang.String sMatchersTag
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: java.lang.ref.WeakReference activityWeakReference
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State HALF_OPENED
+io.flutter.embedding.android.FlutterImageView
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable getReflected()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: ExtensionEmbeddingBackend$EmbeddingCallbackImpl(androidx.window.embedding.ExtensionEmbeddingBackend)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable reflected
+io.flutter.embedding.engine.FlutterOverlaySurface
+androidx.window.embedding.SplitController: void access$setStaticSplitRules(androidx.window.embedding.SplitController,java.util.Set)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+kotlinx.coroutines.JobCancellingNode
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion()
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility valueOf(java.lang.String)
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+kotlin.jvm.internal.CallableReference: java.lang.Object NO_RECEIVER
+androidx.lifecycle.Lifecycling$1
+androidx.window.embedding.SplitInfo: boolean equals(java.lang.Object)
+kotlin.jvm.internal.CallableReference: java.util.List getParameters()
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+androidx.window.embedding.EmbeddingCompat: boolean DEBUG
+androidx.window.R$styleable: int ActivityRule_alwaysExpand
+kotlinx.coroutines.AbstractCoroutine
+androidx.window.embedding.SplitRuleParser: android.content.ComponentName buildClassName(java.lang.String,java.lang.CharSequence)
+androidx.window.embedding.SplitController: void access$setGlobalInstance$cp(androidx.window.embedding.SplitController)
+androidx.window.embedding.ActivityStack: java.util.List getActivities$window_release()
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPairPredicates(java.util.Set)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+androidx.activity.ImmLeaksCleaner
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer getCallback()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept(java.util.List)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1
+androidx.window.layout.SidecarCompat: void registerConfigurationChangeListener(android.app.Activity)
+androidx.window.core.Version: int getMinor()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: ExtensionWindowLayoutInfoBackend(androidx.window.extensions.layout.WindowLayoutComponent)
+androidx.window.embedding.SplitPairRule: java.util.Set getFilters()
+androidx.window.embedding.SplitPairRule: boolean finishPrimaryWithSecondary
+androidx.window.layout.WindowLayoutInfo: java.util.List getDisplayFeatures()
+androidx.window.layout.ExtensionInterfaceCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.window.embedding.ExtensionEmbeddingBackend: ExtensionEmbeddingBackend(androidx.window.embedding.EmbeddingInterfaceCompat)
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String description
+androidx.window.embedding.ActivityRule
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList splitChangeCallbacks
+androidx.window.embedding.ActivityStack: boolean isEmpty
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+androidx.window.core.Version: java.math.BigInteger getBigInteger()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void onSplitInfoChanged(java.util.List)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: android.app.Activity activity
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String description
+androidx.window.layout.WindowLayoutInfo
+kotlinx.coroutines.InvokeOnCompletion
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.window.layout.SidecarCompat: java.util.Map componentCallbackMap
+androidx.window.layout.WindowMetrics
+androidx.window.embedding.SplitPairRule: boolean getFinishPrimaryWithSecondary()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeWindowLayoutInfoListener(androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_1_0()
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+androidx.window.layout.EmptyDecorator: androidx.window.layout.EmptyDecorator INSTANCE
+androidx.window.layout.ExtensionInterfaceCompat
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer callback
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: android.app.Activity $activity
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+androidx.annotation.Keep
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.util.List)
+androidx.window.embedding.ActivityRule: boolean equals(java.lang.Object)
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+kotlinx.coroutines.scheduling.LimitingDispatcher: int inFlightTasks
+androidx.window.embedding.SplitRule: SplitRule()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List getLastInfo()
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation$Companion Companion
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect currentWindowBounds(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.window.layout.DisplayCompatHelperApi28: androidx.window.layout.DisplayCompatHelperApi28 INSTANCE
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+androidx.window.layout.WindowMetrics: int hashCode()
+androidx.window.core.Bounds: int bottom
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+kotlin.jvm.internal.CallableReference: CallableReference()
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.ExtensionsWindowLayoutInfoAdapter INSTANCE
+androidx.window.R$id: int ltr
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext minusKey(kotlin.coroutines.CoroutineContext$Key)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+androidx.window.layout.HardwareFoldingFeature: boolean equals(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetBottom(android.view.DisplayCutout)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key key
+androidx.window.R$styleable
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsN$window_release(android.app.Activity)
+kotlin.jvm.internal.FunctionReference: boolean isInline()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter
+androidx.window.layout.WindowMetricsCalculatorCompat: void getRectSizeFromDisplay(android.app.Activity,android.graphics.Rect)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+androidx.window.R$attr: int splitMinSmallestWidth
+androidx.window.layout.SidecarCompat$TranslatingCallback: SidecarCompat$TranslatingCallback(androidx.window.layout.SidecarCompat)
+kotlin.jvm.internal.CallableReference: java.lang.Class owner
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.List lastValue
+androidx.window.embedding.SplitPairFilter: int hashCode()
+androidx.window.embedding.SplitController: void removeSplitListener(androidx.core.util.Consumer)
+kotlin.jvm.internal.FunctionReference: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.window.layout.FoldingFeature$State: java.lang.String toString()
+kotlinx.coroutines.LazyStandaloneCoroutine
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator$Companion$reset$1 INSTANCE
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat getWindowExtension()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+androidx.window.embedding.SplitController: void addSplitListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type$Companion Companion
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend globalInstance
+androidx.window.embedding.MatcherUtils: androidx.window.embedding.MatcherUtils INSTANCE
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend access$getWindowBackend$p(androidx.window.layout.WindowInfoTrackerImpl)
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType$Companion Companion
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+androidx.window.R$attr
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$1
+androidx.window.core.Bounds: int getLeft()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: SidecarCompat$DistinctSidecarElementCallback(androidx.window.layout.SidecarAdapter,androidx.window.sidecar.SidecarInterface$SidecarCallback)
+androidx.window.layout.SidecarCompat: java.util.Map access$getWindowListenerRegisteredContexts$p(androidx.window.layout.SidecarCompat)
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: ExtensionWindowLayoutInfoBackend$MulticastConsumer(android.app.Activity)
+kotlin.jvm.internal.FunctionReference: int arity
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+androidx.window.core.Version: int hashCode()
+kotlinx.coroutines.CompletedExceptionally
+kotlinx.coroutines.internal.LockFreeLinkedListHead
+kotlinx.coroutines.channels.ConflatedChannel
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int)
+kotlin.jvm.internal.CallableReference: boolean isSuspend()
+androidx.window.core.Version: boolean equals(java.lang.Object)
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+androidx.window.layout.SidecarAdapter$Companion
+androidx.window.layout.WindowMetricsCalculator$Companion: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+androidx.window.core.Version: Version(int,int,int,java.lang.String)
+androidx.window.core.Bounds: int getHeight()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.window.embedding.SplitController: SplitController()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+androidx.window.embedding.EmbeddingTranslatingCallback: EmbeddingTranslatingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface,androidx.window.embedding.EmbeddingAdapter)
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion()
+androidx.window.layout.WindowInfoTrackerImpl: int BUFFER_CAPACITY
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.core.Version: java.lang.String VERSION_PATTERN_STRING
+androidx.window.embedding.EmptyEmbeddingComponent: EmptyEmbeddingComponent()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.window.layout.FoldingFeature$OcclusionType: FoldingFeature$OcclusionType(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+androidx.window.layout.FoldingFeature$State
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.window.embedding.EmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+androidx.window.embedding.SplitPlaceholderRule: androidx.window.embedding.SplitPlaceholderRule plus$window_release(androidx.window.embedding.ActivityFilter)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.core.Version$Companion: androidx.window.core.Version parse(java.lang.String)
+androidx.window.layout.WindowMetricsCalculatorCompat: int getNavigationBarHeight(android.content.Context)
+kotlinx.coroutines.scheduling.CoroutineScheduler
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+androidx.window.embedding.ExtensionEmbeddingBackend: void setSplitRules(java.util.Set)
+androidx.lifecycle.FullLifecycleObserverAdapter
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+androidx.window.embedding.SplitController
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion()
+androidx.window.R$styleable: int ActivityFilter_activityAction
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type getType$window_release()
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityPair(android.app.Activity,android.app.Activity)
+kotlinx.coroutines.internal.LockFreeLinkedListNode$CondAddOp
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl splitInfoEmbeddingCallback
+androidx.window.R$styleable: int ActivityFilter_activityName
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetLeft(android.view.DisplayCutout)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: int label
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface getSidecar()
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: androidx.window.layout.SidecarCompat sidecarCompat
+androidx.window.core.Bounds: int getWidth()
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.window.R$styleable: R$styleable()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateParentMetricsPredicate(androidx.window.embedding.SplitRule)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+androidx.window.embedding.ActivityRule: java.util.Set getFilters()
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State FLAT
+androidx.window.layout.SidecarCompat: java.lang.String TAG
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface access$getExtensionCallback$p(androidx.window.layout.SidecarCompat)
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface sidecar
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.window.R$id: int androidx_window_activity_scope
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: SidecarCompat$FirstAttachAdapter(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.window.embedding.EmbeddingInterfaceCompat: void setSplitRules(java.util.Set)
+androidx.window.layout.SidecarWindowBackend: void access$setGlobalInstance$cp(androidx.window.layout.SidecarWindowBackend)
+androidx.window.layout.SidecarCompat: void register(android.os.IBinder,android.app.Activity)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+kotlinx.coroutines.ChildContinuation
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+androidx.window.layout.WindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+kotlinx.coroutines.EventLoopImplBase$DelayedTaskQueue
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set filters
+androidx.window.core.Bounds: boolean isEmpty()
+kotlin.coroutines.AbstractCoroutineContextElement: java.lang.Object fold(java.lang.Object,kotlin.jvm.functions.Function2)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getSecondaryActivityName()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack secondaryActivityStack
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+androidx.window.R$attr: int activityName
+androidx.savedstate.SavedStateRegistry$1
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: androidx.window.layout.WindowInfoTracker tracker
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: WindowMetricsCalculator$Companion$decorator$1()
+androidx.window.embedding.SplitPairFilter
+androidx.window.embedding.SplitRule: float splitRatio
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: WindowInfoTrackerCallbackAdapter$addListener$1$1(kotlinx.coroutines.flow.Flow,androidx.core.util.Consumer,kotlin.coroutines.Continuation)
+androidx.window.layout.WindowInfoTracker$Companion: void reset()
+androidx.window.R$attr: int activityAction
+kotlin.jvm.internal.CallableReference: java.util.List getTypeParameters()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowMetricsCalculator windowMetricsCalculator
+androidx.window.layout.WindowMetricsCalculator
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarWindowLayoutInfo(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+kotlinx.coroutines.CancelledContinuation
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1 INSTANCE
+androidx.window.embedding.SplitRuleParser
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+androidx.window.layout.ActivityCompatHelperApi24: boolean isInMultiWindowMode(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+androidx.window.embedding.EmbeddingAdapter: androidx.window.embedding.SplitInfo translate(androidx.window.extensions.embedding.SplitInfo)
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KVisibility getVisibility()
+androidx.window.core.Version: Version(int,int,int,java.lang.String,kotlin.jvm.internal.DefaultConstructorMarker)
+kotlin.jvm.internal.FunctionReference: boolean isInfix()
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.SidecarWindowBackend getInstance(android.content.Context)
+kotlinx.coroutines.JobSupport$Finishing
+androidx.window.layout.SidecarWindowBackend: void callbackRemovedForActivity(android.app.Activity)
+androidx.window.embedding.ActivityRule: androidx.window.embedding.ActivityRule plus$window_release(androidx.window.embedding.ActivityFilter)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion()
+androidx.window.embedding.SplitController: boolean sDebug
+androidx.window.embedding.EmptyEmbeddingComponent: void setEmbeddingRules(java.util.Set)
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+kotlinx.coroutines.ChildHandleNode
+kotlinx.coroutines.internal.ThreadSafeHeap
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable compute()
+com.example.amazon_clone.MainActivity
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+kotlinx.coroutines.internal.DispatchedContinuation
+androidx.window.embedding.EmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.core.app.RemoteActionCompatParcelizer
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void addListener(androidx.core.util.Consumer)
+androidx.window.layout.SidecarCompat: void unregisterComponentCallback(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.window.embedding.SplitInfo: float getSplitRatio()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+androidx.window.layout.ActivityCompatHelperApi30
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: SidecarCompat$DistinctElementCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.window.embedding.ActivityFilter: boolean matchesActivity(android.app.Activity)
+androidx.window.core.Version: int patch
+androidx.window.embedding.ActivityFilter: android.content.ComponentName componentName
+androidx.window.R$styleable: int[] ActivityRule
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.window.embedding.ActivityRule: boolean getAlwaysExpand()
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component2(android.util.Pair)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+androidx.window.embedding.ExtensionEmbeddingBackend: void getSplitChangeCallbacks$annotations()
+androidx.window.embedding.SplitPairRule: androidx.window.embedding.SplitPairRule plus$window_release(androidx.window.embedding.SplitPairFilter)
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+androidx.window.embedding.SplitRule: int minSmallestWidth
+androidx.window.embedding.ActivityStack: boolean contains(android.app.Activity)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.FoldingFeature translate$window_release(android.app.Activity,androidx.window.extensions.layout.FoldingFeature)
+androidx.window.embedding.ActivityRule: boolean alwaysExpand
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.core.Version$bigInteger$2: androidx.window.core.Version this$0
+kotlin.jvm.internal.CallableReference: boolean isTopLevel
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityName
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KFunction getReflected()
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarAdapter: java.lang.String access$getTAG$cp()
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter
+androidx.window.embedding.SplitRule: int getMinSmallestWidth()
+androidx.window.embedding.EmbeddingAdapter: java.util.Set translate(java.util.Set)
+kotlin.jvm.internal.CallableReference: java.lang.String signature
+androidx.window.layout.WindowMetrics: android.graphics.Rect getBounds()
+androidx.window.layout.SidecarAdapter$Companion: int getSidecarDevicePosture$window_release(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewDetachedFromWindow(android.view.View)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+androidx.window.R$styleable: int[] SplitPairFilter
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetricsCalculatorCompat INSTANCE
+androidx.window.embedding.SplitPairRule: boolean getFinishSecondaryWithPrimary()
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State$Companion Companion
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.lang.Object)
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion()
+androidx.window.layout.WindowMetricsCalculatorCompat: java.lang.String TAG
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.window.embedding.SplitController: void setStaticSplitRules(java.util.Set)
+androidx.window.embedding.SplitController: void initialize(android.content.Context,int)
+androidx.window.layout.WindowMetricsCalculator$Companion: WindowMetricsCalculator$Companion()
+androidx.window.embedding.SplitController: java.util.Set getSplitRules()
+androidx.window.core.Version: androidx.window.core.Version$Companion Companion
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.core.Bounds: java.lang.String toString()
+androidx.window.R: R()
+kotlinx.coroutines.DispatchedCoroutine
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onLowMemory()
+androidx.window.R$attr: int finishSecondaryWithPrimary
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+androidx.window.layout.SidecarAdapter: SidecarAdapter()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_1_0$cp()
+androidx.window.layout.SidecarAdapter: androidx.window.layout.SidecarAdapter$Companion Companion
+androidx.window.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarInterface$SidecarCallback callbackInterface
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+kotlin.jvm.internal.FunctionReference: boolean isOperator()
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: androidx.window.extensions.layout.WindowLayoutComponent component
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+androidx.window.embedding.ExtensionEmbeddingBackend: void setEmbeddingExtension(androidx.window.embedding.EmbeddingInterfaceCompat)
+kotlinx.coroutines.JobImpl
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+androidx.window.layout.SidecarCompat$Companion
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeature(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDisplayFeature)
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+kotlin.jvm.internal.CallableReference: boolean isAbstract()
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion()
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+kotlin.jvm.internal.CallableReference: java.lang.String getSignature()
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.layout.WindowInfoTrackerImpl
+kotlinx.coroutines.channels.Send
+kotlinx.coroutines.internal.LockFreeLinkedListNode
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewAttachedToWindow(android.view.View)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+kotlin.jvm.internal.FunctionReference: boolean isSuspend()
+kotlin.jvm.internal.FunctionReference: java.lang.String toString()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend windowBackend
+androidx.window.layout.SidecarWindowBackend: java.lang.String TAG
+androidx.window.core.Version: androidx.window.core.Version CURRENT
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitController$Companion: SplitController$Companion()
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+androidx.window.R$styleable: int[] ActivityFilter
+androidx.window.layout.FoldingFeature$State$Companion
+kotlinx.coroutines.InvokeOnCancelling: int _invoked

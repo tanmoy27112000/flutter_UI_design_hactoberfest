@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]
