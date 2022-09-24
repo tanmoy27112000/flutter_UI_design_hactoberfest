@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml",
+            "map": [
+                {
+                    "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
