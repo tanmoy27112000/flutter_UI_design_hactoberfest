@@ -1,0 +1,4 @@
+#Fri Sep 23 23:49:45 IST 2022
+base.0=/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
