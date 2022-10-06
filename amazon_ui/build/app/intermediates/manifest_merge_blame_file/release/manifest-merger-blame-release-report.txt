@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.amazon_clone"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+14        android:name="android.app.Application"
+14-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:7:9-42
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.6.0] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/AndroidManifest.xml:24:18-86
+16        android:icon="@mipmap/ic_launcher"
+16-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:8:9-43
+17        android:label="amazon" >
+17-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:6:9-31
+18        <activity
+18-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:9:9-29:20
+19            android:name="com.example.amazon_clone.MainActivity"
+19-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:10:13-41
+20            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+20-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:14:13-163
+21            android:exported="true"
+21-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:11:13-36
+22            android:hardwareAccelerated="true"
+22-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:15:13-47
+23            android:launchMode="singleTop"
+23-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:12:13-43
+24            android:theme="@style/LaunchTheme"
+24-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:13:13-47
+25            android:windowSoftInputMode="adjustResize" >
+25-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:16:13-55
+26
+27            <!--
+28                 Specifies an Android theme to apply to this Activity as soon as
+29                 the Android process has started. This theme is visible to the user
+30                 while the Flutter UI initializes. After that, this theme continues
+31                 to determine the Window background behind the Flutter UI.
+32            -->
+33            <meta-data
+33-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:21:13-24:17
+34                android:name="io.flutter.embedding.android.NormalTheme"
+34-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:22:15-70
+35                android:resource="@style/NormalTheme" />
+35-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:23:15-52
+36
+37            <intent-filter>
+37-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:25:13-28:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:26:17-68
+38-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:26:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:27:17-76
+40-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:27:27-74
+41            </intent-filter>
+42        </activity>
+43        <!--
+44             Don't delete the meta-data below.
+45             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+46        -->
+47        <meta-data
+47-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:32:9-34:33
+48            android:name="flutterEmbedding"
+48-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:33:13-44
+49            android:value="2" />
+49-->/Users/tanmoykarmakar/Documents/flutter apps/Amazon-responsive-ui-clone/android/app/src/main/AndroidManifest.xml:34:13-30
+50
+51        <uses-library
+51-->[androidx.window:window:1.0.0-beta04] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+52            android:name="androidx.window.extensions"
+52-->[androidx.window:window:1.0.0-beta04] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+53            android:required="false" />
+53-->[androidx.window:window:1.0.0-beta04] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+54        <uses-library
+54-->[androidx.window:window:1.0.0-beta04] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+55            android:name="androidx.window.sidecar"
+55-->[androidx.window:window:1.0.0-beta04] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+56            android:required="false" />
+56-->[androidx.window:window:1.0.0-beta04] /Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/03c633e46d75bfb21f082f0417f55161/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+57    </application>
+58
+59</manifest>
