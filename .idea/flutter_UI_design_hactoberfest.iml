@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/amazon_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/amazon_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/amazon_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hangmanuiapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/hangmanuiapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hangmanuiapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/movie_bloc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/movie_bloc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/movie_bloc/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
