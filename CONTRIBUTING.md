@@ -14,5 +14,9 @@
 - Project: E-commerce app design
 - GitHub: [Ayesha Shaik](https://github.com/Ayeshashaik759)
 
-
+## Jeet dalal
+- Place: Mumbai, Maharashtra, India
+- Bio: Second Year Engineering student .
+- Project: Hangman UI
+- GitHub: [jeetdalal](https://github.com/JeetDalal)
 
