@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\drawable_launch_background.xml.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    }
+]

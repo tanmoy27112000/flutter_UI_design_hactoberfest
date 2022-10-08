@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chandrakant Sahu\\.gradle\\caches\\transforms-3\\596fe6ae3ae7297c6162ef095e1b5878\\transformed\\core-1.6.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

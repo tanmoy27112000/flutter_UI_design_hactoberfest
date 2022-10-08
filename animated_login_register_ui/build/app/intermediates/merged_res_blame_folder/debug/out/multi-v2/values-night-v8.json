@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,981"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,363",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "358,527"
+                    }
+                }
+            ]
+        }
+    ]
+}
