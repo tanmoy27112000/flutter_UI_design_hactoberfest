@@ -1,4 +1,0 @@
-#Tue Oct 04 19:45:31 IST 2022
-base.0=D\:\\Tech Videos\\Flutter\\Projects\\animation_login_register_ui-master_2\\animation_login_register_ui-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
