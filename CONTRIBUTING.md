@@ -7,6 +7,12 @@
 - Project: Amazon UI
 - GitHub: [Tanmoy karmakar](https://github.com/tanmoy27112000)
 
+## Rizky Akbar
+
+- Place: West Sumatera, Indonesia
+- Project: House Estate App UI
+- GitHub: [Rizky Akbar](https://github.com/KYKY62)
+
 ## anmolkulshrestha
 
 - Place: GWALIOR, MADHYA PRADESH, India
@@ -29,3 +35,4 @@
 - Bio: Student at NIT Raipur.
 - Project: Login & SignUp UI
 - GitHub: [Chandrakant Sahu](https://github.com/Chandrakant0110)
+
