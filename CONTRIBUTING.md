@@ -29,3 +29,11 @@
 - Bio: Student at NIT Raipur.
 - Project: Login & SignUp UI
 - GitHub: [Chandrakant Sahu](https://github.com/Chandrakant0110)
+
+## Suyash Dahake
+
+- Place: Wardha, Mahahrashtra, India
+- Bio: Student at BIT Wardha.
+- Project: Swiggy UI Clone
+- GitHub: [Suyash Dahake](https://github.com/suyash0102)
+
