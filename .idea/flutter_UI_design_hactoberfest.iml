@@ -12,6 +12,33 @@
       <excludeFolder url="file://$MODULE_DIR$/movie_bloc/build" />
       <excludeFolder url="file://$MODULE_DIR$/movie_bloc/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/movie_bloc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/twitter_responsive_signup_signin_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/twitter_responsive_signup_signin_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/twitter_responsive_signup_signin_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tictactoe_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tictactoe_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tictactoe_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grocery_ui_template/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grocery_ui_template/build" />
+      <excludeFolder url="file://$MODULE_DIR$/grocery_ui_template/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_login_register_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_login_register_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_login_register_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Login_page ui/login_signup_page/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Login_page ui/login_signup_page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Login_page ui/login_signup_page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/SwiggyCloneUI/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SwiggyCloneUI/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SwiggyCloneUI/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instagram_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/instagram_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/instagram_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dashboard_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zoom_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/zoom_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/zoom_ui/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

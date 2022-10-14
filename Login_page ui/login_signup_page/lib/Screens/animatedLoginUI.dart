@@ -1,17 +1,17 @@
+
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 
-class MyCustomLoginUI extends StatefulWidget {
+class AnimatedLoginUI extends StatefulWidget {
   @override
-  _MyCustomLoginUIState createState() => _MyCustomLoginUIState();
+  _AnimatedLoginUIState createState() => _AnimatedLoginUIState();
 }
 
-class _MyCustomLoginUIState extends State<MyCustomLoginUI>
+class _AnimatedLoginUIState extends State<AnimatedLoginUI>
     with SingleTickerProviderStateMixin {
-  AnimationController _controller;
-  Animation<double> _animation;
+  late AnimationController _controller;
+  late Animation<double> _animation;
 
   @override
   void initState() {
@@ -28,18 +28,18 @@ class _MyCustomLoginUIState extends State<MyCustomLoginUI>
         curve: Curves.ease,
       ),
     )..addListener(
-        () {
-          setState(() {});
-        },
-      )..addStatusListener(
-        (status) {
-          if (status == AnimationStatus.completed) {
-            _controller.reverse();
-          } else if (status == AnimationStatus.dismissed) {
-            _controller.forward();
-          }
-        },
-      );
+          () {
+        setState(() {});
+      },
+    )..addStatusListener(
+          (status) {
+        if (status == AnimationStatus.completed) {
+          _controller.reverse();
+        } else if (status == AnimationStatus.dismissed) {
+          _controller.forward();
+        }
+      },
+    );
 
     _controller.forward();
   }
@@ -96,9 +96,6 @@ class _MyCustomLoginUIState extends State<MyCustomLoginUI>
                               recognizer: TapGestureRecognizer()
                                 ..onTap = () {
                                   HapticFeedback.lightImpact();
-                                  Fluttertoast.showToast(
-                                      msg:
-                                          'Forgotten password! button pressed');
                                 },
                             ),
                           ),
@@ -110,9 +107,7 @@ class _MyCustomLoginUIState extends State<MyCustomLoginUI>
                               recognizer: TapGestureRecognizer()
                                 ..onTap = () {
                                   HapticFeedback.lightImpact();
-                                  Fluttertoast.showToast(
-                                    msg: 'Create a new Account button pressed',
-                                  );
+
                                 },
                             ),
                           ),
@@ -152,9 +147,7 @@ class _MyCustomLoginUIState extends State<MyCustomLoginUI>
                             highlightColor: Colors.transparent,
                             onTap: () {
                               HapticFeedback.lightImpact();
-                              Fluttertoast.showToast(
-                                msg: 'SIGN-IN button pressed',
-                              );
+
                             },
                             child: Container(
                               height: _width * .2,
