@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'Screens/AnimatedForgotPass.dart';
+import 'Screens/AnimatedSignUp.dart';
 import 'Screens/Screens.dart';
+import 'Screens/animatedLoginUI.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,8 +24,12 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
+      debugShowCheckedModeBanner: false,
       initialRoute: '/',
       routes:{
+        "AnimatedLogin":(context) => AnimatedLoginUI(),
+        "AnimatedSignup":(context)=>AnimatedSignup(),
+        'AnimatedForgotPass':(context)=>AnimatedForgotPass(),
         "/":(context)=>LoginScreen(),
         'ForgotPassword':(context)=>ForgotPassword(),
         'CreateNewAccount':(context)=>CreateNewAccount(),
