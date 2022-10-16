@@ -1,5 +1,4 @@
-import 'package:animated_grid_view/Screens/AnimatedGridView1.dart';
-import 'package:animated_grid_view/Screens/AnimatedGridView2.dart';
+import 'package:animated_grid_view/Screens/HomeScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -18,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: AnimatedGridView2(),
+      home: HomeScreen(),
     );
   }
 }
