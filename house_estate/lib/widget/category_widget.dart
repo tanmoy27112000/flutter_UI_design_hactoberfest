@@ -1,3 +1,6 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
 class CategoryWidget {
   final List categoriesLogo = [
     "assets/logohutan.png",
@@ -71,5 +74,13 @@ class CitiesWidget {
     "194 property",
     "89,400 property",
     "184,000 property",
+  ];
+}
+
+class DetailCities {
+  final List iconDetail = const [
+    Icons.king_bed_outlined,
+    Icons.bathtub_outlined,
+    Icons.location_city,
   ];
 }

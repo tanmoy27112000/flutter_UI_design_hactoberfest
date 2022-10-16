@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:house_estate/page/favorite.dart';
 import 'package:house_estate/page/home_page.dart';
 
 class HomeView extends StatefulWidget {
@@ -18,9 +19,7 @@ class _HomeViewState extends State<HomeView> {
         case 0:
           return const HomePage();
         case 1:
-          return const SizedBox(
-            child: Center(child: Text("Favorites")),
-          );
+          return const FavoritePage();
         case 2:
           return const SizedBox(
             child: Center(child: Text("TV News")),
