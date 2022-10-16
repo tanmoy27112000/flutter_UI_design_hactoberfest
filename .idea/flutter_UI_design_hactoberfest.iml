@@ -42,6 +42,9 @@
       <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
