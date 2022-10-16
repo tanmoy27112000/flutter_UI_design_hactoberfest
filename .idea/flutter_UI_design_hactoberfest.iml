@@ -39,6 +39,9 @@
       <excludeFolder url="file://$MODULE_DIR$/zoom_ui/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/zoom_ui/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/zoom_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
