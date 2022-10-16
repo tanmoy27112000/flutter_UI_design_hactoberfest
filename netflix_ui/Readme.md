@@ -15,9 +15,9 @@
 ---
 # Screenshots :
 
-<img src="Screenshots/1.png" style="float:left" height="500" width=250>.
-<img src="Screenshots/2.png" style="float:left" height="500" width=250>. 
-<img src="Screenshots/Demo.gif" style="float:left" height="500" width=250>.
+<img src="Screenshots/1.png" style="float:left" height="500" width=300>.
+<img src="Screenshots/2.png" style="float:left" height="500" width=300>. 
+<img src="Screenshots/Demo.gif" style="float:left" height="500" width=300>.
 
 
  - Final APK is available in the [Screenshots Folder](Screenshots).
