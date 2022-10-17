@@ -38,3 +38,12 @@
 - Project: Swiggy UI Clone
 - GitHub: [Suyash Dahake](https://github.com/suyash0102)
 
+## Chiemela Uzoma
+
+- Place: FTC, Abuja, Nigeria
+- Bio: Free lancer.
+- Project: Classic music ui 
+- Ref: https://dribbble.com/shots/1746194-Music-Player
+- GitHub: [Chiemela Uzoma](https://github.com/codesait)
+
+
