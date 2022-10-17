@@ -38,3 +38,9 @@
 - Project: Swiggy UI Clone
 - GitHub: [Suyash Dahake](https://github.com/suyash0102)
 
+## Randhir Shaw
+
+- Place: Kolkata, West Bengal
+- Bio: MAKAUT Student
+- Project: Netflix UI Clone
+- Github: [Randhir Shaw](https://github.com/randhirshaw)
