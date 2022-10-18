@@ -1,3 +1,4 @@
+// ignore: file_names
 import 'package:flutter/material.dart';
 
 class Advanced extends StatelessWidget {
@@ -5,6 +6,8 @@ class Advanced extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    double width = MediaQuery.of(context).size.width;
+    double height = MediaQuery.of(context).size.height;
     return MaterialApp(
         home: Scaffold(
 
@@ -13,7 +16,9 @@ class Advanced extends StatelessWidget {
             body: Column(
       children: <Widget>[
         Container(
-            padding: EdgeInsets.fromLTRB(60, 275, 55, 252.0),
+            height: height,
+            width: width,
+            padding: EdgeInsets.fromLTRB(10, height / 3, 10, height / 3),
             color: Colors.black,
             child: TextButton(
                 onPressed: () {
@@ -25,7 +30,7 @@ class Advanced extends StatelessWidget {
                   );
                 },
                 style: TextButton.styleFrom(
-                    side: const BorderSide(color: Colors.red, width: 1),
+                    side: const BorderSide(color: Colors.redAccent, width: 1),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10),
                     )),
@@ -50,3 +55,4 @@ class Advanced extends StatelessWidget {
     )));
   }
 }
+
