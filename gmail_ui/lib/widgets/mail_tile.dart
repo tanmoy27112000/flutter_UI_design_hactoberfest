@@ -48,18 +48,19 @@ class MailTile extends StatelessWidget {
         ),
       ),
       trailing: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         mainAxisSize: MainAxisSize.min,
-        children: [
-          const Text(
+        children: const [
+          Text(
             '15 Oct',
           ),
-          IconButton(
-            onPressed: () {},
-            icon: const Icon(
-              Icons.star_border,
-              size: 20,
-            ),
-          ),
+          // IconButton(
+          //   onPressed: () {},
+          //   icon: const Icon(
+          //     Icons.star_border,
+          //     size: 18,
+          //   ),
+          // ),
         ],
       ),
     );

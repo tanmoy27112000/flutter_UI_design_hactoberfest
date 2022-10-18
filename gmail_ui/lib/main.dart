@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:gmail_ui/screens/mail_view_screen.dart';
 import './screens/home_page.dart';
 
 void main() {
@@ -15,6 +16,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData.dark(),
       home: Pages(),
+      routes: {
+        '/mail-view': (context) => const MailViewScreen(),
+      },
     );
   }
 }

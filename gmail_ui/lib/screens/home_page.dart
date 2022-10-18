@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gmail_ui/screens/mails_list.dart';
+import 'package:gmail_ui/screens/mailslist_page.dart';
 import 'package:gmail_ui/screens/meet.dart';
 
 class Pages extends StatefulWidget {
@@ -47,6 +47,11 @@ class _PagesState extends State<Pages> {
         ],
       ),
       body: PageView(
+        onPageChanged: (value) {
+          setState(() {
+            _currentIndex = value;
+          });
+        },
         controller: _pageController,
         children: const [
           HomePage(),

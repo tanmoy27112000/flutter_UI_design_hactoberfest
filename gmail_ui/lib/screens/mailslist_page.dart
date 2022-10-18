@@ -80,11 +80,16 @@ class HomePage extends StatelessWidget {
                     mailList.length,
                     (int index) {
                       return Container(
-                        child: MailTile(
-                          name: mailList[index].name,
-                          subTitle: mailList[index].subTitle,
-                          imageUrl: mailList[index].imageUrl,
-                          description: mailList[index].description,
+                        child: GestureDetector(
+                          onTap: () {
+                            Navigator.of(context).pushNamed('/mail-view');
+                          },
+                          child: MailTile(
+                            name: mailList[index].name,
+                            subTitle: mailList[index].subTitle,
+                            imageUrl: mailList[index].imageUrl,
+                            description: mailList[index].description,
+                          ),
                         ),
                       );
                     },
