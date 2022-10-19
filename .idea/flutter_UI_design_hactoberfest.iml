@@ -45,6 +45,9 @@
       <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/build" />
       <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_listview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_listview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_listview/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
