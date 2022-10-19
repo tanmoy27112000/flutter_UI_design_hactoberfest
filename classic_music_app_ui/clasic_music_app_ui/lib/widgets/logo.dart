@@ -14,13 +14,16 @@ class Logo extends StatelessWidget {
         children: [
           Text(
             'Gravy',
-            style: Theme.of(context).textTheme.headline4!.copyWith(),
+            style: Theme.of(context)
+                .textTheme
+                .headline4!
+                .copyWith(color: Colors.yellow),
           ),
-          const SizedBox(
+          SizedBox(
             width: 30,
             child: Divider(
               thickness: 3,
-              color: Colors.yellow,
+              color: Colors.teal.shade200,
             ),
           )
         ],
