@@ -13,10 +13,7 @@ class HomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Expanded(
-              flex: 2,
-              child: CustomAppBar(),
-            ),
+            const Expanded(flex: 2, child: CustomAppBar()),
             Expanded(
               flex: 8,
               child: Container(
@@ -38,7 +35,7 @@ class CustomAppBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.teal,
-      padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 15),
+      padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 15),
 
       // wrapping the bar children in safe area so they woun't be too
       //closs to app tool bar.

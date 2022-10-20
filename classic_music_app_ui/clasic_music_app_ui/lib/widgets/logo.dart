@@ -19,11 +19,13 @@ class Logo extends StatelessWidget {
                 .headline4!
                 .copyWith(color: Colors.yellow),
           ),
-          SizedBox(
-            width: 30,
-            child: Divider(
-              thickness: 3,
-              color: Colors.teal.shade200,
+          Flexible(
+            child: SizedBox(
+              width: 30,
+              child: Divider(
+                thickness: 3,
+                color: Colors.teal.shade200,
+              ),
             ),
           )
         ],
