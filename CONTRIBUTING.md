@@ -14,7 +14,6 @@
 - Project: Instagram UI
 - GitHub: [anmolkulshrestha](https://github.com/anmolkulshrestha)
 
-
 ## jeetdalal
 
 - Place: Mumbai, Maharashtra, India
@@ -22,13 +21,12 @@
 - Project: Hangman UI
 - GitHub: [jeetdalal](https://github.com/JeetDalal)
 
-
 ## Chandrakant Sahu
 
 - Place: Raipur, Chhattisgarh, India
 - Bio: Student at NIT Raipur.
 - Project: Login & SignUp UI
-         : Zoom_UI
+  : Zoom_UI
 - GitHub: [Chandrakant Sahu](https://github.com/Chandrakant0110)
 
 ## Suyash Dahake
@@ -44,3 +42,10 @@
 - Bio: MAKAUT Student
 - Project: Netflix UI Clone
 - Github: [Randhir Shaw](https://github.com/randhirshaw)
+
+## Mashood Hussain
+
+- Place: Karachi
+- Bio: Flutter Dev at @Muftar_Corp
+- Project: Weather APP UI
+- Github: [Mashood Hussain](https://github.com/mashood100)
