@@ -1,1 +1,0 @@
-const appName = 'RAnime Quotes';
