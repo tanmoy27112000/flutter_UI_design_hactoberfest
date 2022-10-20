@@ -39,6 +39,24 @@
       <excludeFolder url="file://$MODULE_DIR$/zoom_ui/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/zoom_ui/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/zoom_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Travel App UI/travel_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_grid_view/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_listview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_listview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_listview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Real State UI/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Real State UI/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Real State UI/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Calculator_App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Calculator_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Calculator_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/netflix_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/netflix_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/netflix_ui/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
