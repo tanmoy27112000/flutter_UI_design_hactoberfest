@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271771353143",
+    "project_id": "dr-simple-401ba",
+    "storage_bucket": "dr-simple-401ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271771353143:android:dd8238eb9909c7f8d67fb2",
+        "android_client_info": {
+          "package_name": "com.example.drsimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271771353143-ho7ivg9kqt1toudleshhame7ism1gcg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsgAnQ_-hyIkR_OfWiaUI6T3_35rgt9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271771353143-ho7ivg9kqt1toudleshhame7ism1gcg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
