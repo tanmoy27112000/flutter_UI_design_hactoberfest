@@ -36,6 +36,14 @@
 - Project: Swiggy UI Clone
 - GitHub: [Suyash Dahake](https://github.com/suyash0102)
 
+## Chiemela Uzoma
+
+- Place: FTC, Abuja, Nigeria
+- Bio: Free lancer.
+- Project: Classic music ui 
+- GitHub: [Chiemela Uzoma](https://github.com/codesait)
+
+
 ## Randhir Shaw
 
 - Place: Kolkata, West Bengal
