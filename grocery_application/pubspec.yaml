@@ -1,0 +1,78 @@
+name: grocery_application
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.5.4
+  flutter_svg: ^1.1.5
+  flutter_svg_provider: ^1.0.3
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Frank_Ruhl_Libre
+      fonts:
+        - asset: assets/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-300.ttf
+          weight: 300
+        - asset: assets/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-400.ttf
+          weight: 400
+        - asset: assets/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-500.ttf
+          weight: 500
+        - asset: assets/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-700.ttf
+          weight: 700
+        - asset: assets/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-900.ttf
+          weight: 900
+    - family: Lato
+      fonts:
+        - asset: assets/fonts/Lato/Lato-100.ttf
+          weight: 100
+        - asset: assets/fonts/Lato/Lato-300.ttf
+          weight: 300
+        - asset: assets/fonts/Lato/Lato-400.ttf
+          weight: 400
+        - asset: assets/fonts/Lato/Lato-700.ttf
+          weight: 700
+        - asset: assets/fonts/Lato/Lato-900.ttf
+          weight: 900
+        - asset: assets/fonts/Lato/Lato-100.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/Lato/Lato-300.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Lato/Lato-400.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Lato/Lato-700.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Lato/Lato-900.ttf
+          weight: 900
+          style: italic
