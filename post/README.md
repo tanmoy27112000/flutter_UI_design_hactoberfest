@@ -6,11 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+First run  ```flutter pub get```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is available to all mobile devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click on camera icon to select a image from the gallery and add a description to your post and click on post button.
+You can select multiple images and also remove them by clicking on cross button on top left side of each image.
+Happy Posting !
+
+![issue](https://user-images.githubusercontent.com/106864146/199002144-c2036fd7-5333-4954-bb8a-e9f4883216e5.jpg)
+
