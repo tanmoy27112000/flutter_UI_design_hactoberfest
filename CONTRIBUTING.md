@@ -57,3 +57,10 @@
 - Bio: Flutter Dev at @Muftar_Corp
 - Project: Weather APP UI
 - Github: [Mashood Hussain](https://github.com/mashood100)
+
+## Faiz Khan
+
+- Place: Lucknow
+- Bio: Flutter Dev and Student
+- Project: Simple-Calculator-Flutter
+- Github: [FaizFk](https://github.com/FaizFk)
