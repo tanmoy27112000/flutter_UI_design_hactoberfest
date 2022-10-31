@@ -57,3 +57,10 @@
 - Bio: Flutter Dev at @Muftar_Corp
 - Project: Weather APP UI
 - Github: [Mashood Hussain](https://github.com/mashood100)
+
+## Nitin Singh
+
+- Place: Gurugram, Haryana, India
+- Bio: Student at DPGITM
+- Project: WhatsApp UI
+- GitHub: [Nitin Singh](https://github.com/Nitin-Singh18)
