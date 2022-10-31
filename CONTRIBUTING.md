@@ -61,6 +61,6 @@
 ## Nitin Singh
 
 - Place: Gurugram, Haryana, India
-- Bio: Student
+- Bio: Student at DPGITM
 - Project: WhatsApp UI
 - GitHub: [Nitin Singh](https://github.com/Nitin-Singh18)
