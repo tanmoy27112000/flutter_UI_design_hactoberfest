@@ -58,9 +58,18 @@
 - Project: Weather APP UI
 - Github: [Mashood Hussain](https://github.com/mashood100)
 
+
 ## Faiz Khan
 
 - Place: Lucknow
 - Bio: Flutter Dev and Student
 - Project: Simple-Calculator-Flutter
 - Github: [FaizFk](https://github.com/FaizFk)
+
+## Nitin Singh
+
+- Place: Gurugram, Haryana, India
+- Bio: Student at DPGITM
+- Project: WhatsApp UI
+- GitHub: [Nitin Singh](https://github.com/Nitin-Singh18)
+
