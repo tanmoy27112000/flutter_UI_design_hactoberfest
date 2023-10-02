@@ -32,7 +32,7 @@
 
 ### End note
 
-It's a great privilege of **Flutter Kolkata** to contribute at *Hacktoberfest 2022*. All valid pull request will be accepted, this process may take sometime but don't worry.
+It's a great privilege of **Flutter Kolkata** to contribute at *Hacktoberfest 2023*. All valid pull request will be accepted, this process may take sometime but don't worry.
 
 **Join our community for more events**
 
