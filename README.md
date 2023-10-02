@@ -1,8 +1,8 @@
-# Hacktoberfest-2022 Flutter Kolkata
+# Hacktoberfest-2023 Flutter Kolkata
 
 <img src='https://i.imgur.com/ec58cKI.jpg'/>
 
-## Hey 👋 everyone , *hacktoberfest* is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022
+## Hey 👋 everyone , *hacktoberfest* is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2023
 
 ### What you need to do in this event?
 
