@@ -8,7 +8,7 @@
 
 ## You need to generate 4 valid pull request and want to contribute in opensource
 
-### let's discuss how you can contribute in *hacktoberfest 2022* 🙌
+### let's discuss how you can contribute in *hacktoberfest 2023* 🙌
 
 ### Rules
 
