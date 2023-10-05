@@ -19,7 +19,7 @@ class _HomeScreenState extends State<HomeScreen>
     Tab(
       icon: Padding(
         padding: const EdgeInsets.only(top: 3),
-        child: Icon(Icons.photo_camera),
+        child: Icon(Icons.group),
       ),
     ),
     Tab(
@@ -54,27 +54,49 @@ class _HomeScreenState extends State<HomeScreen>
             controller: _tabController,
             indicatorColor: Colors.white,
           ),
-          actions: [
-            Icon(
-              Icons.search,
-              size: 25,
-            ),
-            SizedBox(width: 6),
-            Padding(
-              padding: EdgeInsets.only(left: 4, right: 4),
-              child: GestureDetector(
-                onTap: () {},
-                child: Icon(
-                  Icons.more_vert,
-                  size: 25,
+        actions: [
+          IconButton(
+            onPressed: () {},
+            icon: const Icon(Icons.camera_alt),
+          ),
+          IconButton(
+            onPressed: () {},
+            icon: const Icon(Icons.search),
+          ),
+          PopupMenuButton(
+              color: Colors.white,
+              icon: const Icon(Icons.more_vert),
+              itemBuilder: (context) => [
+                const PopupMenuItem(
+                  value: 1,
+                  child: Text("New Group"),
                 ),
-              ),
-            ),
-          ]),
+                const PopupMenuItem(
+                  value: 2,
+                  child: Text("New Broadcast"),
+                ),
+                const PopupMenuItem(
+                  value: 3,
+                  child: Text("Linked Devices"),
+                ),
+                const PopupMenuItem(
+                  value: 4,
+                  child: Text("Starred Messages"),
+                ),
+                const PopupMenuItem(
+                  value: 4,
+                  child: Text("Payments"),
+                ),
+                const PopupMenuItem(
+                  value: 4,
+                  child: Text("Settings"),
+                ),
+              ],
+    ),]),
       body: TabBarView(
         controller: _tabController,
         children: [
-          CameraScreen(),
+          MyCommunityPage(),
           ChatScreen(),
           StatusScreen(),
           CallScreen(),
