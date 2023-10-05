@@ -4,11 +4,11 @@ import '../model/call_model.dart';
 
 List<CallModel> callDummyData = [
   CallModel(
-      name: "Aditya",
+      name: "Jay Goswami",
       time: "5:30 pm",
       incomingCall: true,
       picture:
-          "https://pbs.twimg.com/profile_images/1484542770236862467/00TrqH80_400x400.jpg"),
+          "https://as1.ftcdn.net/v2/jpg/04/97/23/24/1000_F_497232432_lLbfulSqajw5ok19nMPJmpoM696JOuUp.jpg"),
   CallModel(
       name: "Elon Musk",
       time: "4:30 pm",

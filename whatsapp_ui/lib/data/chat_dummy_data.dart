@@ -4,11 +4,11 @@ import '../model/chat_model.dart';
 
 List<ChatModel> dummyData = [
   ChatModel(
-      name: "Aditya",
+      name: "Jay Goswami",
       message: "Hey Nitin, You are so amazing !",
       time: "5:30 pm",
       picture:
-          "https://pbs.twimg.com/profile_images/1484542770236862467/00TrqH80_400x400.jpg"),
+          "https://as1.ftcdn.net/v2/jpg/04/97/23/24/1000_F_497232432_lLbfulSqajw5ok19nMPJmpoM696JOuUp.jpg"),
   ChatModel(
       name: "Elon Musk",
       message: "Hey I have hacked whatsapp!",
