@@ -73,3 +73,9 @@
 - Project: WhatsApp UI
 - GitHub: [Nitin Singh](https://github.com/Nitin-Singh18)
 
+## Mohd Ahmad
+
+- Place : New Delhi, India
+- Bio : Frontend App / Web Developer at LeanPorts Software GmBH
+- Project: Furrl UI
+- Github :[Mohd Ahmad](https://github.com/No0b-master)
