@@ -73,3 +73,9 @@
 - Project: WhatsApp UI
 - GitHub: [Nitin Singh](https://github.com/Nitin-Singh18)
 
+## Ayoola Tosin
+
+- Place: Kwara, Nigeria
+- Bio: Flutter Dev,Technical writer and student
+- Project - Hotel app
+- GitHub: [Tosin2289](https://github.com/Tosin2289)
