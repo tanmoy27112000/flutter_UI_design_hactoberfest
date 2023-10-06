@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hotel_app/models/room.dart';
 
+import '../widgets/hotel_packages.dart';
 import '../widgets/my_app_bar.dart';
 import '../widgets/my_search_bar.dart';
 import '../widgets/popular_hotel.dart';
@@ -16,6 +17,8 @@ class HomePage extends StatelessWidget {
         "A Five Hotel star Hotel in Kathmandu ", "\$180 / night"),
     RoomModel("assets/room4.jpg", " Hotel Star",
         "A Five Hotel star Hotel in thamel ", "\$180 / night"),
+    RoomModel("assets/room5.jpg", " Hotel youtts",
+        "A Five Hotel star Hotel in dehli ", "\$180 / night"),
   ];
   @override
   Widget build(BuildContext context) {
@@ -53,6 +56,9 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(
                 height: 20,
+              ),
+              HotelPackages(
+                rooms: rooms,
               ),
             ],
           ),
