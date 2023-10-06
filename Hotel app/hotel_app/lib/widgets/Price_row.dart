@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// The section that contains the ratings,price and location on the details page
 class Price_row extends StatelessWidget {
   const Price_row({
     super.key,

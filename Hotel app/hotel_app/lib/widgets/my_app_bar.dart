@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// The HomePage appbar
 class MyAppBar extends StatelessWidget {
   const MyAppBar({
     super.key,

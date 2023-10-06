@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../models/room.dart';
 import '../screens/detailspage.dart';
 
+//Popular hotel tile on the homepage
 class PopularHotel extends StatelessWidget {
   const PopularHotel({
     super.key,

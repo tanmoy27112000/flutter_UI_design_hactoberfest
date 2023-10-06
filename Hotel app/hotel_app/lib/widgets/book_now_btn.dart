@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//The Book now button on the details screen
 class BooknowBtn extends StatelessWidget {
   const BooknowBtn({
     super.key,

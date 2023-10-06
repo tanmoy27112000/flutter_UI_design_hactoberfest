@@ -1,3 +1,4 @@
+//Room model
 class RoomModel {
   final String image;
   final String title;
