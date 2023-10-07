@@ -51,15 +51,51 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.1",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "file",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-3.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-6.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_web-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-1.20.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_platform_interface-4.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_web-1.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
     },
     {
       "name": "flutter",
@@ -69,13 +105,25 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.1",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-1.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_test",
       "rootUri": "file:///C:/src/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_toggle_tab",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_toggle_tab-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -98,10 +146,28 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "lints",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.0.0",
+      "name": "intl",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl_phone_field",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/intl_phone_field-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/lints-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "matcher",
@@ -122,6 +188,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
@@ -135,7 +207,7 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.20",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.19",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -159,15 +231,21 @@
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.0.5",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.1.3",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.0.7",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pin_code_fields",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/pin_code_fields-7.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "platform",
@@ -177,7 +255,7 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.3",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -188,16 +266,16 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///C:/src/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.0"
-    },
-    {
-      "name": "smooth_page_indicator",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/smooth_page_indicator-1.0.0+2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "source_span",
@@ -237,7 +315,7 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -255,24 +333,24 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/win32-3.0.0",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/win32-2.5.2",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.15"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-0.2.0+2",
+      "rootUri": "file:///C:/Users/ankus/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-0.2.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "netflix_clone",
+      "name": "otp_authentication",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.16"
     }
   ],
-  "generated": "2023-10-07T08:55:00.111057Z",
+  "generated": "2023-10-07T08:55:37.697177Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }
