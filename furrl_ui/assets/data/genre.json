@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "text" :"Best Sellers",
+      "image_url" : "https://www.stockvault.net/data/2020/01/18/272608/thumb16.jpg"
+
+    },
+    {
+      "text" :"Home",
+      "image_url" : "https://www.stockvault.net/data/2009/07/20/109569/thumb16.jpg"
+
+    },
+    {
+      "text" :"Apparel",
+      "image_url" : "https://www.stockvault.net/data/2012/01/08/128619/preview16.jpg"
+
+    },
+    {
+      "text" :"Accessories",
+      "image_url" : "https://www.stockvault.net/data/2016/05/13/197519/preview16.jpg"
+
+    },
+    {
+      "text" :"Beauty",
+      "image_url" : "https://www.stockvault.net/data/2007/03/01/98834/thumb16.jpg"
+
+    },
+    {
+      "text" :"Others",
+      "image_url" : "https://www.stockvault.net/data/2011/02/06/117454/thumb16.jpg"
+
+    }
+  ]
+}
