@@ -1,6 +1,8 @@
+@@ -1,7 +1,6 @@
 # This is a generated file; do not edit or check into version control.
-path_provider=C:\\Users\\PC\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\path_provider-2.1.1\\
-path_provider_android=C:\\Users\\PC\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\path_provider_android-2.2.0\\
-path_provider_foundation=C:\\Users\\PC\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\path_provider_foundation-2.3.1\\
-path_provider_linux=C:\\Users\\PC\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\path_provider_linux-2.2.1\\
-path_provider_windows=C:\\Users\\PC\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\path_provider_windows-2.2.1\\
+path_provider=C:\\SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-2.0.11\\
+path_provider_android=C:\\SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_android-2.0.20\\
+path_provider_ios=C:\\SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_ios-2.0.11\\
+path_provider_linux=C:\\SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.1.7\\
+path_provider_macos=C:\\SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-2.0.6\\
+path_provider_windows=C:\\SDK\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.1.3\\
