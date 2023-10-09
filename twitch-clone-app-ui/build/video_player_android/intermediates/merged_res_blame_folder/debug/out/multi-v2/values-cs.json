@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Chandrakant Sahu\\Desktop\\app.mobile.twitch-clone-app-ui\\build\\video_player_android\\intermediates\\res\\merged\\debug\\values-cs\\values-cs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chandrakant Sahu\\.gradle\\caches\\transforms-2\\files-2.1\\f81d7720190f110f0e5c11d71f550860\\jetified-exoplayer-core-2.17.1\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,131,193,256,325,402,472,554,634",
+                        "endColumns": "75,61,62,68,76,69,81,79,79",
+                        "endOffsets": "126,188,251,320,397,467,549,629,709"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chandrakant Sahu\\.gradle\\caches\\transforms-2\\files-2.1\\b9a960218f5163997c0fdfa3d3078c0e\\core-1.7.0\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "714",
+                        "endColumns": "100",
+                        "endOffsets": "810"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Chandrakant Sahu\\Desktop\\app.mobile.twitch-clone-app-ui\\build\\video_player_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chandrakant Sahu\\.gradle\\caches\\transforms-2\\files-2.1\\f81d7720190f110f0e5c11d71f550860\\jetified-exoplayer-core-2.17.1\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,131,193,256,325,402,472,554,634",
+                        "endColumns": "75,61,62,68,76,69,81,79,79",
+                        "endOffsets": "126,188,251,320,397,467,549,629,709"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chandrakant Sahu\\.gradle\\caches\\transforms-2\\files-2.1\\b9a960218f5163997c0fdfa3d3078c0e\\core-1.7.0\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "714",
+                        "endColumns": "100",
+                        "endOffsets": "810"
+                    }
+                }
+            ]
+        }
+    ]
+}
