@@ -1,0 +1,4 @@
+#Sun Oct 08 17:23:47 IST 2023
+base.0=C\:\\Users\\Chandrakant Sahu\\Desktop\\app.mobile.twitch-clone-app-ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
