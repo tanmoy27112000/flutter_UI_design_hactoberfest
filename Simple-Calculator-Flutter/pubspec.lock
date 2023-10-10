@@ -2,7 +2,7 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   animated_text_kit:
-    dependency: "direct main"
+     dependency: "direct main"
     description:
       name: animated_text_kit
       url: "https://pub.dartlang.org"
@@ -88,9 +88,7 @@ packages:
   flutter:
     dependency: "direct main"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_lints:
+	@@ -94,7 +90,8 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
@@ -98,11 +96,7 @@ packages:
     source: hosted
     version: "1.0.4"
   flutter_test:
-    dependency: "direct dev"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  google_fonts:
+	@@ -106,149 +103,162 @@ packages:
     dependency: "direct main"
     description:
       name: google_fonts
@@ -252,9 +246,7 @@ packages:
   sky_engine:
     dependency: transitive
     description: flutter
-    source: sdk
-    version: "0.0.99"
-  source_span:
+	@@ -258,72 +268,82 @@ packages:
     dependency: transitive
     description:
       name: source_span

@@ -81,14 +81,7 @@ packages:
   flutter:
     dependency: "direct main"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_test:
-    dependency: "direct dev"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  google_fonts:
+	@@ -92,114 +95,138 @@ packages:
     dependency: "direct main"
     description:
       name: google_fonts
@@ -203,9 +196,7 @@ packages:
   sky_engine:
     dependency: transitive
     description: flutter
-    source: sdk
-    version: "0.0.99"
-  source_span:
+	@@ -209,65 +236,82 @@ packages:
     dependency: transitive
     description:
       name: source_span

@@ -72,9 +72,18 @@
 - Project: WhatsApp UI
 - GitHub: [Nitin Singh](https://github.com/Nitin-Singh18)
 
+
+## Ayoola Tosin
+
+- Place: Kwara, Nigeria
+- Bio: Flutter Dev,Technical writer and student
+- Project - Hotel app
+- GitHub: [Tosin2289](https://github.com/Tosin2289)
+
 ## Mohd Ahmad
 
 - Place : New Delhi, India
 - Bio : Frontend App / Web Developer at LeanPorts Software GmBH
 - Project: Furrl UI
 - Github :[Mohd Ahmad](https://github.com/No0b-master)
+

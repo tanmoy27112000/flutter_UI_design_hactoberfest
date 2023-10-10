@@ -2,7 +2,7 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   animations:
-    dependency: "direct main"
+     dependency: "direct main"
     description:
       name: animations
       url: "https://pub.dartlang.org"
@@ -72,11 +72,7 @@ packages:
     source: hosted
     version: "6.1.4"
   flutter:
-    dependency: "direct main"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_lints:
+	@@ -80,9 +114,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
@@ -86,14 +82,7 @@ packages:
   flutter_test:
     dependency: "direct dev"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  hexcolor:
+	@@ -97,126 +132,200 @@ packages:
     dependency: "direct main"
     description:
       name: hexcolor
@@ -220,11 +209,7 @@ packages:
     source: hosted
     version: "3.0.1"
   sky_engine:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.99"
-  source_span:
+	@@ -228,114 +337,154 @@ packages:
     dependency: transitive
     description:
       name: source_span

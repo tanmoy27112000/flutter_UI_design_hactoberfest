@@ -2,7 +2,7 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   async:
-    dependency: transitive
+     dependency: transitive
     description:
       name: async
       url: "https://pub.dartlang.org"
@@ -81,9 +81,7 @@ packages:
   flutter:
     dependency: "direct main"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_lints:
+	@@ -87,9 +90,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
@@ -93,9 +91,7 @@ packages:
   flutter_test:
     dependency: "direct dev"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  font_awesome_flutter:
+	@@ -99,135 +103,146 @@ packages:
     dependency: "direct main"
     description:
       name: font_awesome_flutter
@@ -231,9 +227,7 @@ packages:
   sky_engine:
     dependency: transitive
     description: flutter
-    source: sdk
-    version: "0.0.99"
-  source_span:
+	@@ -237,72 +252,82 @@ packages:
     dependency: transitive
     description:
       name: source_span

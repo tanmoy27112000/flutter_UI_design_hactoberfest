@@ -88,9 +88,7 @@ packages:
   flutter:
     dependency: "direct main"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_lints:
+	@@ -94,7 +90,8 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
@@ -98,16 +96,7 @@ packages:
     source: hosted
     version: "1.0.4"
   flutter_test:
-    dependency: "direct dev"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  font_awesome_flutter:
+	@@ -111,154 +108,176 @@ packages:
     dependency: "direct main"
     description:
       name: font_awesome_flutter
@@ -262,11 +251,7 @@ packages:
     source: hosted
     version: "5.0.0"
   sky_engine:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.99"
-  source_span:
+	@@ -270,79 +289,90 @@ packages:
     dependency: transitive
     description:
       name: source_span

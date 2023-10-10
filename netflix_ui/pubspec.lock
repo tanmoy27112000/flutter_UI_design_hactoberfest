@@ -74,9 +74,7 @@ packages:
   flutter:
     dependency: "direct main"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_lints:
+	@@ -80,9 +82,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
@@ -86,9 +84,7 @@ packages:
   flutter_test:
     dependency: "direct dev"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  google_fonts:
+	@@ -92,128 +95,138 @@ packages:
     dependency: "direct main"
     description:
       name: google_fonts
@@ -217,9 +213,7 @@ packages:
   sky_engine:
     dependency: transitive
     description: flutter
-    source: sdk
-    version: "0.0.99"
-  smooth_page_indicator:
+	@@ -223,79 +236,90 @@ packages:
     dependency: "direct main"
     description:
       name: smooth_page_indicator

@@ -130,9 +130,7 @@ packages:
   flutter:
     dependency: "direct main"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_dotenv:
+	@@ -136,9 +146,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_dotenv
@@ -142,9 +140,7 @@ packages:
   flutter_driver:
     dependency: "direct dev"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_lints:
+	@@ -148,16 +159,18 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
@@ -161,14 +157,7 @@ packages:
   flutter_test:
     dependency: "direct dev"
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  fluttertoast:
+	@@ -172,16 +185,18 @@ packages:
     dependency: "direct main"
     description:
       name: fluttertoast
@@ -185,9 +174,7 @@ packages:
   fuchsia_remote_debug_protocol:
     dependency: transitive
     description: flutter
-    source: sdk
-    version: "0.0.0"
-  get:
+	@@ -191,261 +206,290 @@ packages:
     dependency: "direct main"
     description:
       name: get
@@ -449,9 +436,7 @@ packages:
   sky_engine:
     dependency: transitive
     description: flutter
-    source: sdk
-    version: "0.0.99"
-  source_map_stack_trace:
+	@@ -455,149 +499,170 @@ packages:
     dependency: transitive
     description:
       name: source_map_stack_trace
