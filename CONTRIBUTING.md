@@ -7,6 +7,13 @@
 - Project: Amazon UI
 - GitHub: [Tanmoy karmakar](https://github.com/tanmoy27112000)
 
+## Vinay Adatiya
+
+- Place: Surat, Gujrat, India
+- Bio: Prefinal Year Student Flutter Dev & UI Designer
+- Project: Travelling App Login Page UI
+- GitHub: [Vinay Adatiya](https://github.com/Vinay9478)
+
 ## anmolkulshrestha
 
 - Place: GWALIOR, MADHYA PRADESH, India

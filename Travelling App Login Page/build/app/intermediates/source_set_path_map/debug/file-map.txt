@@ -1,0 +1,12 @@
+com.example.loginpage.app-jetified-window-java-1.0.0-beta04-0 C:\Users\adati\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.loginpage.app-core-1.6.0-1 C:\Users\adati\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.loginpage.app-jetified-annotation-experimental-1.1.0-2 C:\Users\adati\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.loginpage.app-jetified-window-1.0.0-beta04-3 C:\Users\adati\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.loginpage.app-debug-4 D:\Practice Flutter\Login Page\android\app\src\debug\res
+com.example.loginpage.app-main-5 D:\Practice Flutter\Login Page\android\app\src\main\res
+com.example.loginpage.app-pngs-6 D:\Practice Flutter\Login Page\build\app\generated\res\pngs\debug
+com.example.loginpage.app-resValues-7 D:\Practice Flutter\Login Page\build\app\generated\res\resValues\debug
+com.example.loginpage.app-rs-8 D:\Practice Flutter\Login Page\build\app\generated\res\rs\debug
+com.example.loginpage.app-mergeDebugResources-9 D:\Practice Flutter\Login Page\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.loginpage.app-mergeDebugResources-10 D:\Practice Flutter\Login Page\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.loginpage.app-merged_res-11 D:\Practice Flutter\Login Page\build\app\intermediates\merged_res\debug
